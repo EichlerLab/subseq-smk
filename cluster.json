@@ -1,0 +1,22 @@
+{
+    "__default__": {
+        "cpu": "1",
+        "mem": "2G",
+        "disk": "0G",
+        "rt": "04:00:00",
+        "params": ""
+  },
+  
+  "subseq_merge_setdef": {
+    "mem": "6G"
+  },
+  
+  "subseq_tab_window_single": {
+    "mem": "4G",
+    "rt": "48:00:00"
+  },
+  
+  "subseq_table_setdef_bed": {
+    "mem": "4G"
+  }
+}
