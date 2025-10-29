@@ -54,7 +54,7 @@ SET_DEF = {
 ​
 # Run pipeline
 ```
-./runsnake 80 tables/validation/{sample}/caller_extern-pav/sv_{svtype}/{sample}_hifi/size{percent_size}_{minimum_reads}_{minimum_support}.tsv.gz
+./runsnake 80 tables/validation/{sample}/caller_extern-pav/sv_{svtype}/{sample}_hifi/size{percent_size}_{minimum_support}_{minimum_reads}.tsv.gz
 # Example
 ## ./runsnake 80 tables/validation/HG00733/caller_extern-pav/sv_insdel/HG00733_hifi/size50_2_4.tsv.gz
 ```
